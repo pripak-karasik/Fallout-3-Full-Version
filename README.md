@@ -236,4 +236,4 @@ This repository serves as the official landing page for Fallout 3. The software 
 **Get the most recent version of Fallout 3 today!**
 
 ---
-**Last updated:** 2026-09-27 12:40:32 UTC
+**Last updated:** 2026-09-27 17:25:13 UTC
